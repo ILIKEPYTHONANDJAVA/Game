@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         return Math.random() < percentage / 100;
     }
 });
+;
 
     function eventWithChance(percentage) {
         return Math.random() < percentage / 100;
